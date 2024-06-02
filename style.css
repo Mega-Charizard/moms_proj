@@ -1,0 +1,194 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+#start_model {
+    font-size: 25px;
+    margin: 75px;
+    border-radius: 25px;
+    width: 300px;
+    color: white;
+    background-color: rgb(21, 230, 205);
+    height: 100px;
+}
+
+#start_model:hover {
+    color: rgb(255, 255, 255);
+    background-color: #318CDB;
+}
+
+header {
+    background-image: url("https://wallup.net/wp-content/uploads/2016/05/13/348370-relaxation-couple-men-women-landscape-nature-beach-sea-relaxing-tropical-vacation.jpg");
+    padding: 300px;
+    background-position: center;
+    background-size: cover;
+    min-height: auto;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: mintcream;
+}
+
+
+p {
+    color: azure;
+    font-size: 20px;
+}
+
+.slackside-one-regular {
+    font-family: "Slackside One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+
+#welcome_div {
+    background-color: rgb(163, 247, 181);
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    height: 400px;
+    width: auto;
+    text-align: left;
+}
+
+#welcome_div h1 {
+    font-size: 40px;
+    color: #318CDB;
+}
+
+#second_main_div h1 {
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.rightdiv {
+    float: right;
+}
+
+.leftdiv {
+    float: left;
+}
+
+#random_p {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.374);
+}
+
+
+.imgdiv {
+    border-radius: 250px;
+    height: 300px;
+    width: 450px;
+}
+
+#second_main_div {
+    padding: 50px;
+    padding-bottom: 25px;
+    background-color: #13ebb4;
+    height: 400px;
+    text-align: left;
+}
+
+#second_main_div h1 {
+    color: #ffffff;
+    letter-spacing: 5px;
+}
+
+#second_main_div h2 {
+    color: rgb(0, 0, 0);
+}
+
+#hi_there {
+    font-size: 100px;
+}
+
+#third_main_div {
+    padding: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(64, 201, 162);
+    height: 400px;
+
+}
+
+#fourth_main_div {
+    padding: 10px;
+    display: flex;
+    border: solid 1px rgb(93, 0, 163);
+}
+
+#fourth_main_div img {
+    width: 95%;
+    border: solid 1px magenta;
+}
+
+#fourth_main_div img:hover {
+    width: 99%;
+}
+
+#copy {
+    color: black;
+    background-color: goldenrod;
+    line-height: 50px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.menu {
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    list-style: none;
+    background-color: rgb(88, 114, 145);
+    width: 100%;
+    height: small;
+}
+
+.menu:hover {
+    height: 150px;
+}
+
+.menu a {
+    float: right;
+    padding: 50px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Jersey 10 Charted';
+    letter-spacing: 2px;
+}
+
+.menu a:hover {
+    font-size: 35px;
+    color: black;
+}
+
+#wfg {
+    margin-top: 10px;
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+.fancy_font {
+    font-family: "Lexend", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.fancier_font {
+    font-family: "Radio Canada Big", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.squirel_img {
+    width: 33%;
+    height:fit-content;
+    border: solid 1px rgb(255, 0, 0);
+}
